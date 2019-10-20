@@ -10,6 +10,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 [My Code Journal](http://www.tonyshelton.com/code_journal/)
 
+[My Artwork](http://www.tonysheltonart.com/
 ```markdown
 Syntax highlighted code block
 
