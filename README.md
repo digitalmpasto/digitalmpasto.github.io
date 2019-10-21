@@ -1,4 +1,4 @@
-## Hi, I'm Tony!
+## Hi, welcome to my front page!
 
 You can use the [editor on GitHub](https://github.com/digitalmpasto/digitalmpasto.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -6,9 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-Hi, I’m Tony!
-
-I’m a visual artist and technology enthusiast.
+I’m Tony, a visual artist and technology enthusiast.
 
 A University of Wisconsin-Whitewater alumni with a degree in art, I trained in everything from design and graphic arts, to more traditional art techniques.
 You can view my art portfolio [here](http://www.tonysheltonart.com/).
