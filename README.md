@@ -2,7 +2,7 @@
 
 <img src="Me in DC.jpg" alt="hi" class="inline"/>
 
-I’m Tony, a visual artist and technology enthusiast.
+I’m a visual artist and technology enthusiast.
 
 A University of Wisconsin-Whitewater alumni with a bachelor's degree in art, I trained in everything from design and graphic arts, to more traditional art techniques like drawing and oil painting.
 You can view my art portfolio [here](http://www.tonysheltonart.com/).
