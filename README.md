@@ -11,4 +11,4 @@ Recently, I’ve begun to take a more serious interest in coding, first learning
 
 After many months of hard work I’m beginning to catch on and, along with my artistic knowledge, I'm well on the path to creating beautiful, aesthetically pleasing, and functional websites. You can follow my journey into coding [here](http://www.tonyshelton.com/code_journal/).
 
-Thank you for taking an interest, and feel free to contact me with your art concerns at tonysheltonart@gmail.com, and with your digital media concerns at digitalmpasto@gmail.com.
+Thank you for taking an interest, and feel free to contact me with your art concerns at [mailto](mailto:tonysheltonart@gmail.com), and with your digital media concerns at digitalmpasto@gmail.com.
