@@ -1,24 +1,16 @@
-## Hi, welcome to my front page!
-
-You can use the [editor on GitHub](https://github.com/digitalmpasto/digitalmpasto.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+## Hi, I'm Tony! 
 
 I’m Tony, a visual artist and technology enthusiast.
 
 A University of Wisconsin-Whitewater alumni with a degree in art, I trained in everything from design and graphic arts, to more traditional art techniques.
 You can view my art portfolio [here](http://www.tonysheltonart.com/).
 
-Recently, I’ve begun to take a more serious interest in coding, first learning Python, and continuing my journey using technologies such as html, css, bootstrap, and jquery. There is so much to learn, which is both overwhelming and fun!
+Recently, I’ve begun to take a more serious interest in coding, first learning Python, and continuing my journey using technologies such as html, css, bootstrap, and jquery. There is so much to learn, which is both an overwhelming and exciting feeling!
 
 After several months of hard work I’m beginning to catch on and, along with my artistic knowledge, am well on the path to creating beautiful, aesthetically pleasing, and functional websites. You can follow my coding journey [here](http://www.tonyshelton.com/code_journal/).
 
 
-[](http://www.tonyshelton.com/code_journal/)
 
-[My Artwork](http://www.tonysheltonart.com/)
 ```markdown
 Syntax highlighted code block
 
@@ -34,7 +26,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[My Code Journal](http://www.tonyshelton.com/code_journal/) and ![Image](src)
+[Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
