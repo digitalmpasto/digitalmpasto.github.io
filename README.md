@@ -2,10 +2,10 @@
 
 I’m Tony, a visual artist and technology enthusiast.
 
-A University of Wisconsin-Whitewater alumni with a degree in art, I trained in everything from design and graphic arts, to more traditional art techniques.
+A University of Wisconsin-Whitewater alumni with a bachelor's degree in art, I trained in everything from design and graphic arts, to more traditional art techniques.
 You can view my art portfolio [here](http://www.tonysheltonart.com/).
 
-Recently, I’ve begun to take a more serious interest in coding, first learning Python, and continuing my journey using technologies such as html, css, bootstrap, and jquery. There is so much to learn, which is both an overwhelming and exciting feeling!
+Recently, I’ve begun to take a more serious interest in coding, first learning Python, and continuing my journey using technologies such as html, css, bootstrap, jquery, and more. There is so much to learn, which is both overwhelming and exciting!
 
 After several months of hard work I’m beginning to catch on and, along with my artistic knowledge, am well on the path to creating beautiful, aesthetically pleasing, and functional websites. You can follow my coding journey [here](http://www.tonyshelton.com/code_journal/).
 
